@@ -1,0 +1,67 @@
+﻿article,words,sentences,syllables_per_word,words_per_sentence,score,band
+Tétanos,51,1,2.61,51.0,-6.6,Muy difícil
+Antibiótico,415,14,2.45,29.6,24.8,Muy difícil
+Diabetes mellitus,359,9,2.28,39.9,25.0,Muy difícil
+Accidente cerebrovascular,127,5,2.5,25.4,25.4,Muy difícil
+Artritis reumatoide,225,8,2.45,28.1,25.9,Muy difícil
+Ibuprofeno,101,4,2.46,25.2,28.6,Muy difícil
+Depresión,332,13,2.42,25.5,30.6,Muy difícil
+Cirrosis hepática,46,2,2.43,23.0,32.1,Muy difícil
+Dengue,249,10,2.39,24.9,32.8,Muy difícil
+Alcoholismo,273,10,2.34,27.3,33.9,Muy difícil
+Asma,377,15,2.35,25.1,35.1,Muy difícil
+Anemia,54,1,1.89,54.0,35.2,Muy difícil
+Gastritis,110,5,2.4,22.0,35.3,Muy difícil
+Insomnio,197,6,2.22,32.8,35.5,Muy difícil
+Enfermedad de Parkinson,260,9,2.27,28.9,36.3,Muy difícil
+Salud mental,417,13,2.22,32.1,36.6,Muy difícil
+Leucemia,159,7,2.36,22.7,36.8,Muy difícil
+Varicela,146,6,2.34,24.3,37.0,Muy difícil
+Enfermedad pulmonar obstructiva crónica,328,13,2.32,25.2,37.1,Muy difícil
+Gripe,509,16,2.21,31.8,37.4,Muy difícil
+Vacuna,301,10,2.23,30.1,37.6,Muy difícil
+Migraña,290,9,2.2,32.2,37.6,Muy difícil
+Epilepsia,345,12,2.25,28.8,37.8,Muy difícil
+Osteoporosis,700,23,2.22,30.4,37.9,Muy difícil
+Enfermedad de Alzheimer,708,25,2.26,28.3,38.0,Muy difícil
+Trastorno de ansiedad,375,15,2.31,25.0,38.1,Muy difícil
+Infarto agudo de miocardio,418,13,2.19,32.2,38.5,Muy difícil
+Paracetamol,378,14,2.27,27.0,38.6,Muy difícil
+Glaucoma,252,8,2.19,31.5,39.1,Muy difícil
+Tabaquismo,423,17,2.28,24.9,40.1,Algo difícil
+Insuficiencia cardíaca,486,19,2.26,25.6,40.6,Algo difícil
+Síndrome de Down,344,10,2.1,34.4,41.3,Algo difícil
+Hipertensión arterial,688,25,2.2,27.5,42.0,Algo difícil
+Cáncer,1142,45,2.23,25.4,42.3,Algo difícil
+Desnutrición,169,8,2.3,21.1,42.7,Algo difícil
+Obesidad,232,8,2.17,29.0,42.8,Algo difícil
+Caries,753,24,2.11,31.4,44.0,Algo difícil
+Tuberculosis,461,21,2.26,22.0,44.3,Algo difícil
+Apendicitis,326,17,2.29,19.2,45.1,Algo difícil
+Insuficiencia renal,106,4,2.17,26.5,45.2,Algo difícil
+Cáncer de próstata,429,22,2.28,19.5,45.6,Algo difícil
+Cáncer de pulmón,472,16,2.11,29.5,45.9,Algo difícil
+Cólera,163,7,2.21,23.3,46.0,Algo difícil
+Resfriado común,231,10,2.21,23.1,46.2,Algo difícil
+Diarrea,544,22,2.18,24.7,46.5,Algo difícil
+Infección urinaria,241,10,2.18,24.1,46.8,Algo difícil
+Suicidio,671,28,2.18,24.0,47.0,Algo difícil
+Embarazo humano,264,10,2.13,26.4,47.6,Algo difícil
+Malaria,546,24,2.19,22.8,47.7,Algo difícil
+Neumonía,412,19,2.21,21.7,47.7,Algo difícil
+Donación de sangre,628,23,2.11,27.3,48.3,Algo difícil
+Lactancia materna,319,11,2.08,29.0,48.4,Algo difícil
+COVID-19,514,19,2.11,27.1,48.4,Algo difícil
+Cáncer de mama,367,15,2.14,24.5,49.3,Algo difícil
+Sarampión,263,14,2.2,18.8,51.1,Algo difícil
+Rabia,961,43,2.13,22.3,52.0,Algo difícil
+VIH/sida,487,23,2.14,21.2,52.4,Algo difícil
+Fiebre del Zika,276,12,2.1,23.0,52.9,Algo difícil
+Hepatitis,123,8,2.2,15.4,54.2,Algo difícil
+Catarata,117,7,2.18,16.7,54.3,Algo difícil
+Poliomielitis,214,13,2.16,16.5,55.6,Normal
+Colesterol,109,5,2.06,21.8,56.4,Normal
+Cálculo renal,185,8,2.03,23.1,57.4,Normal
+Cáncer colorrectal,93,5,2.09,18.6,58.3,Normal
+Sobrepeso,142,7,1.92,20.3,66.8,Bastante fácil
+Bronquitis,80,7,2.04,11.4,68.5,Bastante fácil
